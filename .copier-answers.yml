@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier
+_commit: v1.7.0-1-g3c55b63
+_src_path: https://github.com/sixfeetup/scaf-fullstack-template.git
+copier__author_name: Roché Compaan
+copier__aws_account_id: '381492128493'
+copier__aws_region: us-east-1
+copier__create_nextjs_frontend: true
+copier__description: Roché Scaf Test
+copier__domain_name: roche.scaf.sixfeetup.com
+copier__email: roche@sixfeetup.com
+copier__existing_hosted_zone: scaf.sixfeetup.com
+copier__operating_system: k3s
+copier__project_name_raw: rochescaf
+copier__project_slug: rochescaf
+copier__repo_url: git@github.com:sixfeetup/rochescaf.git
+copier__timezone: US/Eastern
+copier__use_celery: false
+copier__use_sentry: false
+copier__version: 1.0.0
