@@ -21,5 +21,5 @@ module "cluster" {
 
   # NB!: limit admin_allowed_ips to a set of trusted
   # public ip addresses. Both variables are comma separated lists of ips.
-  # admin_allowed_ips = "10.0.0.1/32,10.0.0.2/32"
+    admin_allowed_ips = "102.218.60.202/32"
 }

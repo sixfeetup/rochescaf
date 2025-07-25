@@ -68,7 +68,7 @@ patches:
 - patch: |-
     - op: add
       path: /data/DISTRIBUTION_ID
-      value: "CHANGEME"
+      value: "E26MKH0VVSAQTX"
   target:
     kind: ConfigMap
     name: app-config
